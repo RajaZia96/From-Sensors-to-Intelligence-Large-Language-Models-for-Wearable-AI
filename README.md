@@ -6,7 +6,7 @@
 
 ## 📖 About the Review
 
-This repository accompanies the systematic literature review titled **"Large Language Models in Wearables: A Comprehensive Survey with Taxonomy."**  
+This repository accompanies the systematic literature review titled **"From Sensors to Intelligence: Large Language Models for Wearable AI."**  
 The review investigates the integration of **Large Language Models (LLMs)** in wearable technology (WT) and how these models enhance various aspects of wearable systems, including:
 
 - ✅ Context-aware intelligence  
