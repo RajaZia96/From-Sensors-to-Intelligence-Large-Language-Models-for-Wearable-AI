@@ -35,10 +35,8 @@ This repository ensures transparency and reproducibility by providing the follow
 
 | File | Description |
 |------|-------------|
-| `LLM in Wearable.xlsx` | Raw and filtered article datasets (n=355 total, 38 selected) |
-| `search_strategy.txt` | Search keywords and queries used in database retrieval |
-| `screening_notes.md` | Documentation of inclusion/exclusion criteria and screening decisions |
-| `prisma_diagram.png` *(optional)* | PRISMA flowchart visualizing the screening process |
+| `LLM in Wearable.xlsx` | Raw and filtered article datasets (n=356 total, 56 selected) |
+| `prisma_diagram.png`  | PRISMA flowchart visualizing the screening process |
 
 ---
 
