@@ -66,7 +66,10 @@ All steps were aligned with **PRISMA 2020** guidelines for systematic reviews.
 
 ## 📊 PRISMA 2020 Diagram
 
-![PRISMA Flow Diagram](./Prisma_LLM_Wereable_Review.png)
+<p align="center">
+  <img src="./Prisma_LLM_Wereable_Review.png" width="450">
+</p>
+
 
 ---
 
