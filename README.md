@@ -35,7 +35,8 @@ This repository ensures transparency and reproducibility by providing the follow
 
 | File | Description |
 |------|-------------|
-| `LLM in Wearable.xlsx` | Raw and filtered article datasets (n=356 total, 56 selected) |
+| `Search_Papers.xlsx` | Screened search results after exclusions (n=223) |
+| `Selected_Papers.xlsx` | Final studies included in the review (n=56) |
 | `prisma_diagram.png`  | PRISMA flowchart visualizing the screening process |
 
 ---
@@ -94,7 +95,7 @@ We highlight the need for further research in:
 
 Researchers and practitioners can:
 
-1. **Explore** the file(`LLM in Wearable.xlsx`)  
+1. **Explore** the files(`Search_Papers.xlsx and Selected_Papers.xlsx`)  
 2. **Explore** the screening process and rationale  
 3. **Replicate or extend** the review using the included search strategies  
 4. **Use** the curated list for model training, benchmarking, or secondary studies  
